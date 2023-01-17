@@ -1,5 +1,5 @@
 # Earthquake1
-#Authot: Mahram 
+#Author: Mahram 
 #Date: 2023.january
 Earthquake 
 This is my code templete for eathquake analasis and visualization, not complet yet. But it's a head start or something to start with. 
